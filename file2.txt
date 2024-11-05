@@ -1,2 +1,3 @@
 "Ini adalah file2" 
 "Hasil edit file2"
+"Hasil edit di repo lokal" 
